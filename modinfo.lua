@@ -4,7 +4,7 @@
 name = "[T] Ice Flingomatic Plugins(EN)"
 description = "Better Ice Flingomatic & Ice Flingomatic Range & Future Ice Flingomatic"
 author = "Talent"
-version = "1.0"
+version = "1.1"
 forumthread = "None"
 icon_atlas = "Ta_IFP.xml"
 icon = "Ta_IFP.tex"
